@@ -1,5 +1,4 @@
 # Machine-learning-project
-supervised learning
 building a simple model to predict whether a customer is leaving the service (1 for churn, 0 for no churn).
 
 after training the data on a diffrent Classifications models, roandom forest was the best option 
